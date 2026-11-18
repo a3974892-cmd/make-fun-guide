@@ -24,6 +24,7 @@ cat README.md
 
 ## Contents
 
+- [Your first hour](#your-first-hour)
 - [What make.fun is](#what-makefun-is)
 - [What you need](#what-you-need)
 - [1. Create your account](#1-create-your-account)
@@ -36,6 +37,18 @@ cat README.md
 - [Earn with your own referral link](#earn-with-your-own-referral-link)
 - [Mistakes that cost people their entry](#mistakes-that-cost-people-their-entry)
 - [Questions](#questions)
+
+## Your first hour
+
+If you want the shortest path from here to an entry, do exactly this:
+
+1. **Sign up** with the link above, and link GitHub on your profile.
+2. **Pick one bounty** whose task you understand, and read its requirements page end to end.
+3. **Download its kit** and read `RULES.txt` — it is the whole competition in plain language.
+4. **Start a fresh agent session** and build in it. Do not reuse a session from before the competition opened.
+5. **Submit early**, while you still have time to fix whatever the checks reject.
+
+That is the whole loop. The rest of this guide is the detail behind each step.
 
 ## What make.fun is
 
